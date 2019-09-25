@@ -8,14 +8,14 @@
     <meta name="keywords" content="">
     <title>HR Theme Two</title>
 	<!-- CSS -->
-    <link href="css/bootstrap.min.css?v=1001" rel="stylesheet">
-    <link href="css/font-awesome.min.css?v=1001" rel="stylesheet">
-    <link href="css/animate.min.css?v=1001" rel="stylesheet">
-    <link href="css/owl.carousel.css?v=1001" rel="stylesheet">
-    <link href="css/owl.transitions.css?v=1001" rel="stylesheet">
-    <link href="css/prettyPhoto.css?v=1001" rel="stylesheet">
-    <link href="css/main.css?v=1001" rel="stylesheet">
-    <link href="css/styles.css?v=1001" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.transitions.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
     <!--[if lt IE 9]>
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
@@ -93,11 +93,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-9">
-                    <h2>Sed ut perspiciatis unde omnis iste</h2>
-                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima.</p>
-                </div>
-                <div class="col-sm-3 text-right">
-                    <a class="btn btn-primary btn-lg" href="#">Reprehenderit Qui!</a>
+                   
                 </div>
             </div>
         </div>
