@@ -38,12 +38,10 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
-                    </button>
-<<<<<<< HEAD
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo" height="65" width="150"></a>
-=======
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png " alt="logo" height="150" width="70"></a>
->>>>>>> 39a6223728a7085bc8236482d954103747c8b357
+
+                    <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="logo" height="65" width="150"></a>
+
+
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
