@@ -64,30 +64,26 @@
 
     <section id="main-slider">
         <div class="owl-carousel">
-            <div class="item" style="background-image: url(images/slider/bg1.jpg);">
+            <div class="item" style="background-image: url(images/bg1.jpg);">
                 <div class="slider-inner">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h2><span>Nemo</span> enim ipsam voluptatem quia voluptas</h2>
-                                    <p> Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut. </p>
-                                    <a class="btn btn-primary btn-lg" href="#">Read More</a>
+                               
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div><!--/.item-->
-             <div class="item" style="background-image: url(images/slider/bg2.jpg);">
+             <div class="item" style="background-image: url(images/bg2.jpg);">
                 <div class="slider-inner">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h2>Cum soluta nobis <span>TEMPORE</span></h2>
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. </p>
-                                    <a class="btn btn-primary btn-lg" href="#">Read More</a>
+                               
                                 </div>
                             </div>
                         </div>
